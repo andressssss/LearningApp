@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'LearningApp';
-  variablekpa = 'sd';
+  title:String = 'LearningApp';
+  variablekpa:String = 'sd';
 }
